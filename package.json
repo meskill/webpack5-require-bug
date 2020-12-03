@@ -1,0 +1,6 @@
+{
+    "name": "src",
+    "dependencies": {
+        "tslib": "^1.13.0"
+    }
+}
