@@ -2,6 +2,8 @@
 
 This repo shows some edge cases when build fails
 
+Note: Issue fixed at https://github.com/webpack/webpack/releases/tag/v5.10.0
+
 ## How to reproduce
 
 1. Clone this repo

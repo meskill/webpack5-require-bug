@@ -2,7 +2,7 @@
   "name": "webpack5",
   "version": "1.0.0",
   "dependencies": {
-    "webpack": "^5.9.0"
+    "webpack": "^5.10.1"
   },
   "description": "My webpack project",
   "scripts": {
